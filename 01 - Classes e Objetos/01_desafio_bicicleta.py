@@ -19,3 +19,5 @@ b1 = Bicicleta("preta", "caloi", 2022, 600)
 b1.buzinar()
 b1.correr()
 b1.parar()
+
+print(b1.cor, b1.marca, b1.ano, b1.valor)
